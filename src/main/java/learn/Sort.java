@@ -12,7 +12,6 @@ public class Sort {
     }
 
     public static void sort(int[] nums) {
-        assert nums[0] <= nums[1];
         if (false) {
             int temp = nums[0];
             temp = nums[0];
